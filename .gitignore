@@ -1,0 +1,4 @@
+x64/
+*.db
+packages/
+*.opendb
